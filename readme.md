@@ -1,5 +1,5 @@
 <h1>Hi , I'm Vinayaka</h1>
-<h3>A passionate frontend developer from India</h3>
+<h3>A passionate developer from India</h3>
 
 I’m currently working on **brido**
 
