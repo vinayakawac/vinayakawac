@@ -5,7 +5,7 @@
 
 * **Pronouns:** He / Him
 * **Location:** Bangalore, India
-* **Education:** B.E. in Computer Science (Sai Vidya Institute of Technology, 2026)
+* **Education:** B.E. in Computer Science
 * **Interests:** Full-Stack Web Development, Systems Programming, Cross-Platform Engineering
 * **Current Focus:** CincoScribe (Deployment Stage)
 
