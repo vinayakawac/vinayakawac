@@ -14,24 +14,24 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>CincoScribe</h4>
+      <h4><a href="https://github.com/vinayakawac/cincoscribe-frontend">CincoScribe</a></h4>
       <p><em>Deployment Stage</em></p>
       <p>Finalizing deployment pipelines and production configurations.</p>
     </td>
     <td width="50%" valign="top">
-      <h4>Brido</h4>
+      <h4><a href="https://github.com/vinayakawac/brido">Brido</a></h4>
       <p><em>Rust, Kotlin, Jetpack Compose, WSS, GitHub Actions</em></p>
       <p>Remote desktop streaming and frame analysis system powered by Gemini, OpenRouter, and Ollama.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>bud</h4>
+      <h4><a href="https://github.com/vinayakawac/bud">bud</a></h4>
       <p><em>Next.js, TypeScript, PostgreSQL, Prisma, React, JWT</em></p>
       <p>Full-stack creator platform for showcasing projects and secure user workflows.</p>
     </td>
     <td width="50%" valign="top">
-      <h4>ChronoTab</h4>
+      <h4><a href="https://github.com/vinayakawac/ChronoTab">ChronoTab</a></h4>
       <p><em>TypeScript, React, Chrome APIs, Playwright</em></p>
       <p>Chrome extension scheduling automated tab opening and offscreen API execution.</p>
     </td>
@@ -69,20 +69,9 @@
 <p align="left">
   <a href="https://git-scm.com"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
   <a href="https://github.com"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" /></a>
+  <img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/Antigravity_IDE-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity IDE" />
 </p>
-
-### Profile Metrics
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=vinayakawac&show_icons=false&theme=dark&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="100%" />
-    </td>
-    <td width="50%" valign="top" align="center">
-      <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=vinayakawac&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="100%" />
-    </td>
-  </tr>
-</table>
 
 ---
 
@@ -90,5 +79,5 @@
 
 <p align="left">
   <a href="mailto:vinayakawac@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/vinayakashankara"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/vinayakahshankara"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
