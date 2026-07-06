@@ -77,7 +77,5 @@
 
 ### Connect
 
-<p align="left">
-  <a href="mailto:vinayakawac@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/vinayakahshankara"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>
+*   **Email:** [vinayakawac@gmail.com](mailto:vinayakawac@gmail.com)
+*   **LinkedIn:** [linkedin.com/in/vinayakahshankara](https://linkedin.com/in/vinayakahshankara)
